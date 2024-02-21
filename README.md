@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hhuydaug
-- 👀 I’m interested in coding
+- 👋 Hi, I’m @hhuydaugg
+- 👀 I’m interested in coding, AI
 - 🌱 I’m currently learning python, HTML, css
-- 💞️ I’m looking to collaborate on some online games in the future
+- 💞️ I’m looking to collaborate on some online projects in the future
 
 <!---
 hhuydaug/hhuydaug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
