@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hhuydaugg
-- 👀 I’m interested in coding, AI
-- 🌱 I’m currently learning python, HTML, css
-- 💞️ I’m looking to collaborate on some online projects in the future
+- 👋 Hi, I’m @hhuydaugg.
+- 👀 I’m interested in Data Analyzing, AI.
+- 🌱 I’m fluent in Python, HTML, CSS, SQL, R.
+- 💞️ I’m looking to collaborate on some online projects in the future.
 
 <!---
 hhuydaug/hhuydaug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
